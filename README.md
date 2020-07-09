@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 我是:
 
-- 西安交大学渣一枚, 半路出家 PHP
+- 半路出家的 PHP
 
 - 学了学 Node.js , 也算半个不会 css 的前端
 
