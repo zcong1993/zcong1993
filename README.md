@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是:
+- 😄 半路出家的 PHP
 
-- 半路出家的 PHP
+- 🔭 学了学 Node.js , 也算半个不会 css 的前端
 
-- 学了学 Node.js , 也算半个不会 css 的前端
+- 🌱 Golang 爱好者
 
-- Golang 爱好者
-
-- Devops 追随者
+- ⚡ Devops 追随者
