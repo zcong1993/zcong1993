@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.cong.moe/api/top-langs/?username=zcong1993&hide=css" />
+
 - 😄 半路出家的 PHP
 
 - 🔭 学了学 Node.js , 也算半个不会 css 的前端
