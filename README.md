@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 esbuild 加速 ts 构建](https://blog.cong.moe/post/2021-06-06-esbuild-tsc/)
+- [滑动窗口计数器](https://blog.cong.moe/post/2021-06-03-rolling-window/)
+- [分布式全局唯一 ID 生成](https://blog.cong.moe/post/2021-04-13-gulid/)
+- [inlets + caddy 实现安全内网穿透隧道](https://blog.cong.moe/post/2021-03-26-inlets-caddy-secure-tunnel/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
