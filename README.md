@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry-JS Tracing 实现详解](https://blog.cong.moe/post/2021-07-23-opentelemetry-js/)
 - [写了个简单的多设备文本分享工具](https://blog.cong.moe/post/2021-07-09-text-sharing/)
 - [使用 dbmate 管理数据库 migration](https://blog.cong.moe/post/2021-06-15-use-dbmate-manage-db-migration/)
 - [使用 esbuild 加速 ts 构建](https://blog.cong.moe/post/2021-06-06-esbuild-tsc/)
-- [滑动窗口计数器](https://blog.cong.moe/post/2021-06-03-rolling-window/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
