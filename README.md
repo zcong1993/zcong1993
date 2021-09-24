@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Node Grpc Health Check](https://blog.cong.moe/post/2021-09-24-node-grpc-health-check/)
 - [使用 VictoriaMetrics 替换 Prometheus](https://blog.cong.moe/post/2021-08-23-use-victoria-metrics-replace-prometheus/)
 - [OpenTelemetry-JS Tracing 实现详解](https://blog.cong.moe/post/2021-07-23-opentelemetry-js/)
 - [写了个简单的多设备文本分享工具](https://blog.cong.moe/post/2021-07-09-text-sharing/)
-- [使用 dbmate 管理数据库 migration](https://blog.cong.moe/post/2021-06-15-use-dbmate-manage-db-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
