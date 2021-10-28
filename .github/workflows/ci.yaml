@@ -16,6 +16,6 @@ jobs:
                 feed_list: "https://blog.cong.moe/index.xml"
             - uses: vn7n24fzkq/github-profile-summary-cards@release
               env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                GITHUB_TOKEN: ${{ secrets.PAT }}
               with:
                 USERNAME: ${{ github.repository_owner }}
