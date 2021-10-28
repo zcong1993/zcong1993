@@ -1,13 +1,14 @@
-name: Latest blog post workflow
+name: Update personal readme
 on: 
     push:
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 */2 * * *'
     workflow_dispatch:
 jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
+    update-readme:
+        name: update latest post and github summary
         runs-on: ubuntu-latest
+        timeout-minutes: 10
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
