@@ -19,6 +19,7 @@
 - [服务端超时控制](https://blog.cong.moe/post/2021-10-18-server-timeout-handler/)
 - [Node Grpc Health Check](https://blog.cong.moe/post/2021-09-24-node-grpc-health-check/)
 - [使用 VictoriaMetrics 替换 Prometheus](https://blog.cong.moe/post/2021-08-23-use-victoria-metrics-replace-prometheus/)
+- [OpenTelemetry-JS Tracing 实现详解](https://blog.cong.moe/post/2021-07-23-opentelemetry-js/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
