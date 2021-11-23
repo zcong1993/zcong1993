@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dapr 源码解析 | 可观测性](https://blog.cong.moe/post/2021-11-23-dapr-observability/)
 - [Dapr 源码解析 | mTLS](https://blog.cong.moe/post/2021-11-19-dapr-mtls/)
 - [Dapr 源码解析 | 服务间调用](https://blog.cong.moe/post/2021-11-10-dapr-service-invocation/)
 - [Dapr 源码解析 | 发布订阅](https://blog.cong.moe/post/2021-11-05-dapr-pubsub/)
 - [Dapr 源码解析 | 组件模块](https://blog.cong.moe/post/2021-11-02-dapr-component/)
-- [Dapr 源码解析 | 配置模块](https://blog.cong.moe/post/2021-11-01-dapr-configuration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
