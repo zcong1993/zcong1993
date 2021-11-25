@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dapr 源码解析 | Operator](https://blog.cong.moe/post/2021-11-24-dapr-operator/)
 - [Dapr 源码解析 | Sidecar Injector](https://blog.cong.moe/post/2021-11-23-dapr-sidecar-injector/)
 - [Dapr 源码解析 | 可观测性](https://blog.cong.moe/post/2021-11-23-dapr-observability/)
 - [Dapr 源码解析 | mTLS](https://blog.cong.moe/post/2021-11-19-dapr-mtls/)
 - [Dapr 源码解析 | 服务间调用](https://blog.cong.moe/post/2021-11-10-dapr-service-invocation/)
-- [Dapr 源码解析 | 发布订阅](https://blog.cong.moe/post/2021-11-05-dapr-pubsub/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
