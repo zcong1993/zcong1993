@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.cong.moe](https://blog.cong.moe)
 
-- 💬 Ask me about **NodeJS, Golang, K8s, Docker**
+- 💬 Ask me about **NodeJS, Golang, K8s, Docker, Dapr**
 
 - 📫 How to reach me **zhangcong1992@gmail.com**
 
