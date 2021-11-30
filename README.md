@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zhangcong1992@gmail.com**
 
-### Blogs posts
+### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Dapr 源码解析 | Name Resolution](https://blog.cong.moe/post/2021-11-25-dapr-name-resolution/)
 - [Dapr 源码解析 | Operator](https://blog.cong.moe/post/2021-11-24-dapr-operator/)
