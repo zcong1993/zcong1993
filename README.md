@@ -15,11 +15,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dapr | State Store Encryption](https://blog.cong.moe/post/2022-01-11-dapr-state-store-encryption/)
 - [gRPC 扩展错误处理](https://blog.cong.moe/post/2021-12-29-grpc-richer-error-handling/)
 - [gRPC 扩展类型的使用](https://blog.cong.moe/post/2021-12-28-grpc-advance-types/)
 - [一点面试感想](https://blog.cong.moe/post/2021-12-23-interview/)
 - [Dapr 源码解析 | Name Resolution](https://blog.cong.moe/post/2021-11-25-dapr-name-resolution/)
-- [Dapr 源码解析 | Operator](https://blog.cong.moe/post/2021-11-24-dapr-operator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
