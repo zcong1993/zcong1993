@@ -15,11 +15,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [北大肖臻《区块链技术与应用》公开课学习笔记](https://blog.cong.moe/post/2022-01-13-blockchain-xiaozhen/)
 - [Dapr | State Store Encryption](https://blog.cong.moe/post/2022-01-11-dapr-state-store-encryption/)
 - [gRPC 扩展错误处理](https://blog.cong.moe/post/2021-12-29-grpc-richer-error-handling/)
 - [gRPC 扩展类型的使用](https://blog.cong.moe/post/2021-12-28-grpc-advance-types/)
 - [一点面试感想](https://blog.cong.moe/post/2021-12-23-interview/)
-- [Dapr 源码解析 | Name Resolution](https://blog.cong.moe/post/2021-11-25-dapr-name-resolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
