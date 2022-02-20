@@ -3,13 +3,13 @@
 
 ---
 
-- 🌱 I’m currently learning **Dapr, Golang**
+- 🌱 I’m currently learning **Golang, Cloud Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zcong1993](https://github.com/zcong1993)
 
 - 📝 I regularly write articles on [https://blog.cong.moe](https://blog.cong.moe)
 
-- 💬 Ask me about **NodeJS, Golang, K8s, Docker, Dapr**
+- 💬 Ask me about **Golang, NodeJS, Kubernetes, Cloud Native, Docker, Dapr**
 
 - 📫 How to reach me **zhangcong1992@gmail.com**
 
