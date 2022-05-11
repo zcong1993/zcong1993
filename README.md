@@ -15,11 +15,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/)
 - [Dapr 源码解析 | Resiliency](https://blog.cong.moe/post/2022-04-08-dapr-resiliency/)
 - [Ristretto 高性能 go 语言缓存](https://blog.cong.moe/post/2022-03-19-ristretto-high-performance-go-cache/)
 - [北大肖臻《区块链技术与应用》公开课学习笔记](https://blog.cong.moe/post/2022-01-13-blockchain-xiaozhen/)
 - [Dapr | State Store Encryption](https://blog.cong.moe/post/2022-01-11-dapr-state-store-encryption/)
-- [gRPC 扩展错误处理](https://blog.cong.moe/post/2021-12-29-grpc-richer-error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
