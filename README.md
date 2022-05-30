@@ -13,6 +13,16 @@
 
 - 📫 How to reach me **zhangcong1992@gmail.com**
 
+I code with :  👇
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/cloud%20native-%23231f20.svg?style=for-the-badge&logo=cncf&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Dapr](https://img.shields.io/badge/dapr-%230d2192.svg?style=for-the-badge&logo=traefik%20mesh&logoColor=white)
+
 &nbsp;
 ## 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
