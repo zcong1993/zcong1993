@@ -14,7 +14,6 @@
 - 📫 How to reach me **zhangcong1992@gmail.com**
 
 &nbsp;
-&nbsp;
 ## 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [现代化的 Protobuf 构建工具 buf](https://blog.cong.moe/post/2022-05-18-buf-tool/)
@@ -24,7 +23,6 @@
 - [北大肖臻《区块链技术与应用》公开课学习笔记](https://blog.cong.moe/post/2022-01-13-blockchain-xiaozhen/)
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp;
 &nbsp;
 ## 📊 Github stats
 
