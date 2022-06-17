@@ -28,7 +28,7 @@ I code with :  👇
 <!-- BLOG-POST-LIST:START -->
 - [Kitex 服务发现与负载均衡](https://blog.cong.moe/post/2022-06-14-kitex-resolver-balancer/)
 - [现代化的 Protobuf 构建工具 buf](https://blog.cong.moe/post/2022-05-18-buf-tool/)
-- [gRPC Go 服务发现与负载均衡](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/)
+- [gRPC Go 服务发现与负载均衡&lpar;更新版&rpar;](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/)
 - [Dapr 源码解析 | Resiliency](https://blog.cong.moe/post/2022-04-08-dapr-resiliency/)
 - [Ristretto 高性能 go 语言缓存](https://blog.cong.moe/post/2022-03-19-ristretto-high-performance-go-cache/)
 <!-- BLOG-POST-LIST:END -->
