@@ -26,11 +26,11 @@ I code with :  👇
 &nbsp;
 ## 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grpc ClientConnInterface 扩展](https://blog.cong.moe/post/2022-08-04-grpc-client-conn-interface-ext/)
 - [Grpc client 拦截器 CallOption 扩展](https://blog.cong.moe/post/2022-07-21-grpc-interceptor-call-option/)
 - [Dapr 源码解析 | Distribute Lock](https://blog.cong.moe/post/2022-06-23-dapr-distribute-lock-api/)
 - [Kitex 服务发现与负载均衡](https://blog.cong.moe/post/2022-06-14-kitex-resolver-balancer/)
 - [现代化的 Protobuf 构建工具 buf](https://blog.cong.moe/post/2022-05-18-buf-tool/)
-- [gRPC Go 服务发现与负载均衡&lpar;更新版&rpar;](https://blog.cong.moe/post/2021-03-06-grpc-go-discovery-lb/)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
