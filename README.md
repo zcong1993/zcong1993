@@ -26,11 +26,11 @@ I code with :  👇
 &nbsp;
 ## 📝 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [一种 golang 开发工具管理方式](https://blog.cong.moe/post/2022-12-31-golang-dev-tools/)
 - [Dapr 源码解析 | Pluggable Components](https://blog.cong.moe/post/2022-10-06-dapr-pluggable-components/)
 - [Grpc Proxy](https://blog.cong.moe/post/2022-09-14-grpc-proxy/)
 - [Grpc 泛化调用](https://blog.cong.moe/post/2022-09-04-grpc-generic-call/)
 - [Grpc ClientConnInterface 扩展](https://blog.cong.moe/post/2022-08-04-grpc-client-conn-interface-ext/)
-- [Grpc client 拦截器 CallOption 扩展](https://blog.cong.moe/post/2022-07-21-grpc-interceptor-call-option/)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
