@@ -33,6 +33,8 @@ I code with :  👇
 - [Grpc ClientConnInterface 扩展](https://blog.cong.moe/post/2022-08-04-grpc-client-conn-interface-ext/)
 <!-- BLOG-POST-LIST:END -->
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/zcong1993/zcong1993/master/profile-summary-card-output/github-contribution-grid-snake.svg)
+
 &nbsp;
 ## 📊 Github stats
 
