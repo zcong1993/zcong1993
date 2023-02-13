@@ -36,3 +36,7 @@ jobs:
                 commit_options: '--amend --no-edit'
                 push_options: '--force'
                 skip_fetch: true
+                # Optional commit user and author settings
+                commit_user_name: profile-summary-cards[bot]
+                commit_user_email: profile-summary-cards-bot@example.com
+                commit_author: profile-summary-cards[bot]
