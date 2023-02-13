@@ -33,7 +33,7 @@ jobs:
             - uses: stefanzweifel/git-auto-commit-action@v4
               with:
                 commit_message: ${{ steps.last-commit-message.outputs.msg }}
-                commit_options: '--amend --no-edit'
+                commit_options: '--amend --no-edit --allow-empty'
                 push_options: '--force'
                 skip_fetch: true
                 # Optional commit user and author settings
