@@ -34,9 +34,9 @@ jobs:
               id: need-push
               run: |
                 if git diff-index --quiet origin/master; then
-                  echo "false" >> $GITHUB_OUTPUT
+                  echo "msg=false" >> $GITHUB_OUTPUT
                 else
-                  echo "true" >> $GITHUB_OUTPUT
+                  echo "msg=true" >> $GITHUB_OUTPUT
                 fi
             - uses: stefanzweifel/git-auto-commit-action@v4
               if: ${{ steps.need-push.outputs.msg == 'true' }}
