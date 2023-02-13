@@ -35,8 +35,10 @@ jobs:
               run: |
                 if git diff-index --quiet origin/master; then
                   echo "msg=false" >> $GITHUB_OUTPUT
+                  echo "no need"
                 else
                   echo "msg=true" >> $GITHUB_OUTPUT
+                  echo "need"
                 fi
             - uses: stefanzweifel/git-auto-commit-action@v4
               if: ${{ steps.need-push.outputs.msg == 'true' }}
