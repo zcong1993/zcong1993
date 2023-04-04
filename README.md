@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zcong1993](https://github.com/zcong1993)
 
+- 💖 Team member of [https://github.com/zeromicro/go-zero](https://github.com/zeromicro/go-zero)
+
 - 📝 I regularly write articles on [https://blog.cong.moe](https://blog.cong.moe)
 
 - 💬 Ask me about **Golang, NodeJS, Kubernetes, Cloud Native, Docker, Dapr**
