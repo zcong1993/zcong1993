@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/zcong1993/zcong1993/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
