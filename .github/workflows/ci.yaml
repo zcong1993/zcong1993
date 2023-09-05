@@ -22,10 +22,12 @@ jobs:
               with:
                 USERNAME: ${{ github.repository_owner }}
             - name: generate github-contribution-grid-snake.svg
-              uses: Platane/snk@master
+              uses: Platane/snk@v3
               with:
                 github_user_name: ${{ github.repository_owner }}
                 svg_out_path: profile-summary-card-output/github-contribution-grid-snake.svg
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             - name: Get last commit message
               id: last-commit-message
               run: |
