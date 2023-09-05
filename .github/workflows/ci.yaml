@@ -25,7 +25,8 @@ jobs:
               uses: Platane/snk@v3
               with:
                 github_user_name: ${{ github.repository_owner }}
-                svg_out_path: profile-summary-card-output/github-contribution-grid-snake.svg
+                outputs: |
+                    profile-summary-card-output/github-contribution-grid-snake.svg
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             - name: Get last commit message
