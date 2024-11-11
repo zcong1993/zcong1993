@@ -9,6 +9,8 @@
 
 - 💖 Team member of [https://github.com/zeromicro/go-zero](https://github.com/zeromicro/go-zero)
 
+- ✍🏻 Blog [https://blog.cong.moe](https://blog.cong.moe)
+
 - 💬 Ask me about **Golang, NodeJS, Kubernetes, Cloud Native, Docker, Dapr**
 
 I code with :  👇
